@@ -1,6 +1,6 @@
 # Customer Segmentation Auto Insurance and CLV Analysis
 
-This repository contains the code and analysis for the **Limitless FinPro: Customer Segmentation and CLV (Customer Lifetime Value) Analysis** project. The aim of this project is to analyze customer data, segment customers into distinct groups based on their characteristics, and provide actionable business insights to enhance marketing strategies and increase customer lifetime value.
+This repository contains the code and analysis for the **Limitless FinPro: Customer Segmentation Auto Insurance and CLV (Customer Lifetime Value) Analysis** project. The aim of this project is to analyze customer data, segment customers into distinct groups based on their characteristics, and provide actionable business insights to enhance marketing strategies and increase customer lifetime value.
 
 ## Table of Contents
 - Project Overview
