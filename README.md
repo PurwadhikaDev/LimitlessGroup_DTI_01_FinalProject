@@ -31,51 +31,6 @@ The dataset used in this project includes various features related to customer d
 - **Policy Level**: The level of the insurance policy (L1, L2, L3).
 - **Sales Channel**: The channel through which the customer purchased their insurance (Agent, Branch, Web, etc.).
 
-## Project Structure
-
-The repository is structured as follows:
-
-```
-Limitless-FinPro/
-│
-├── data/
-│   ├── raw/                 # Raw data files
-│   ├── processed/           # Processed data files
-│
-├── notebooks/
-│   ├── Limitless_Finpro.ipynb  # Jupyter Notebook containing the main analysis
-│
-├── src/
-│   ├── data_processing.py    # Scripts for data cleaning and processing
-│   ├── clustering_analysis.py # Scripts for clustering analysis
-│   ├── modeling.py           # Scripts for predictive modeling
-│   ├── visualization.py      # Scripts for generating plots and visualizations
-│
-├── README.md                 # Project description and instructions
-├── requirements.txt          # List of dependencies
-└── LICENSE                   # License for the repository
-```
-
-## Installation
-
-To set up the project locally, follow these steps:
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/Limitless-FinPro.git
-   cd Limitless-FinPro
-   ```
-
-2. **Create a virtual environment and activate it**:
-   ```bash
-   python -m venv venv
-   source venv/bin/activate   # On Windows use `venv\Scripts\activate`
-   ```
-
-3. **Install the required dependencies**:
-   ```bash
-   pip install -r requirements.txt
-   ```
 
 ## Usage
 
@@ -105,11 +60,4 @@ Based on the analysis, the following recommendations are made for the marketing 
 3. **Optimize Sales Channels**: Strengthen engagement through preferred channels such as agents and branches, while enhancing digital interactions for tech-savvy customers.
 
 For a detailed analysis and additional recommendations, refer to the notebook and the results section.
-
-## Contributing
-
-If you would like to contribute to this project, please fork the repository and submit a pull request. All contributions are welcome!
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+.
