@@ -3,15 +3,16 @@
 This repository contains the code and analysis for the **Limitless FinPro: Customer Segmentation and CLV (Customer Lifetime Value) Analysis** project. The aim of this project is to analyze customer data, segment customers into distinct groups based on their characteristics, and provide actionable business insights to enhance marketing strategies and increase customer lifetime value.
 
 ## Table of Contents
-
-- [Project Overview](#project-overview)
-- [Data Description](#data-description)
-- [Analysis Clustering]
-- [Modeling]
-- [Results](#results)
-- [Business Recommendations](#business-recommendations)
-- [Contributing](#contributing)
-- [License](#license)
+- Project Overview
+- Data Description
+- Data Preprocessing
+- Exploratory Data Analysis (EDA)
+- Clustering Analysis
+- K-Means Clustering
+- Regression Modeling
+- Model Evaluation
+- Results
+- Business Recommendations
 
 ## Project Overview
 
